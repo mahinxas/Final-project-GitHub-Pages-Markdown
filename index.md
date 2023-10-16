@@ -32,9 +32,9 @@ Here's some words about the book _One Hundred Years..._.
 
 [**Links**](https://www.markdowntutorial.com/lesson/3/)
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
