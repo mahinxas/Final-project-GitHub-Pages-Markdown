@@ -36,7 +36,7 @@ Here's some words about the book _One Hundred Years..._.
 
 [You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -44,9 +44,9 @@ Well, do I have [the website for you][another fun place]!
 
 [**Images**](https://www.markdowntutorial.com/lesson/4/)
 
-[a fun place]: www.zombo.com
+[a fun place]: https://www.zombo.com
 
-[another fun place]: www.stumbleupon.com
+[another fun place]: https://www.stumbleupon.com
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
