@@ -1,6 +1,12 @@
 ## <MD Mazharul Islam> web exercise
 
-Here are excercises from **Markdown tutorial**
+**Name: MD Mazharul Islam**
+
+**Student number: 2303918**
+
+**Mail: mazharul.islam@centria.fi**
+
+_Here are answers of all excercises from **Markdown tutorial**_:
 
 [**Italics and Bold**](https://www.markdowntutorial.com/lesson/1/)
 
